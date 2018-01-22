@@ -5,4 +5,4 @@ The following files are contained in this repository:
 - CALM_Community_Detection_Conners.ipynb: this is an IPython notebook with the analysis of behavioural data, including the data-driven subgrouping
 - Conners_Connectome_PLS.ipynb: this is an IPython notebook with the comparison of white matter connectivity between the subtypes identified in the behavioural analysis
 
-NB: For the white matter connectome construction, please see url[https://github.com/joebathelt/WM_]connectome/
+NB: For the white matter connectome construction, please see https://github.com/joebathelt/WM_connectome/
